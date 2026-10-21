@@ -1,0 +1,4 @@
+asana==5.0.0
+openai==1.10.0
+httpx<0.28.0
+python-dotenv==0.13.0
